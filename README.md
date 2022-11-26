@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asrar-Ahammad
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning OpenCV
+- 🌱 I’m currently learning Mongodb
 - 💞️ I’m looking to collaborate on (Not until now)
 - 📫 How to reach me asrarahammadshaik@gmail.com
 
