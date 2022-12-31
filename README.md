@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asrar-Ahammad
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Mongodb
-- 💞️ I’m looking to collaborate on (Not until now)
+- 🌱 I’m currently learning Tensorflow
+- 💞️ I’m looking to collaborate on projets that involve deep learning
 - 📫 How to reach me asrarahammadshaik@gmail.com
 
 <!---
