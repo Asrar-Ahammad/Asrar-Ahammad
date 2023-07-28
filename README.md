@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asrar-Ahammad
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Tensorflow
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate with projects on deep learning
 - 📫 How to reach me asrarahammadshaik@gmail.com
 
