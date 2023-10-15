@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shaik Mohammad Asrar Ahammad</h1>
-<h3 align="center">Fulled by passion towards data</h3>
+<h1 align="center">Hi 👋, I'm Asrar Ahammad</h1>
+<h3 align="center">Fulled by passion towards Data Science</h3>
 
-- 🔭 I’m currently working on **Bloging website**
+- 🔭 I’m currently working on **Next word prediction using deep learning**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://asrarahammad.netlify.app/](https://asrarahammad.netlify.app/)
 
