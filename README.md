@@ -2,7 +2,7 @@
 🔭 I’m currently working on Video Streaming Platform<br>👯 I’m looking to collaborate on NextJS<br>🤝 I’m looking for help with NextJS<br>🌱 I’m currently learning NextJS
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikmohammadasrarahammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asrarahammadshaik@gmail.com) 
 
 # 💻 Tech Stack:
