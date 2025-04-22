@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Video Streaming Platform<br>👯 I’m looking to collaborate on NextJS<br>🤝 I’m looking for help with NextJS<br>🌱 I’m currently learning NextJS
+🔭 I’m currently working on Video Streaming Platform<br>🌱 I’m currently learning NextJS
 
 
 # 🌐 Socials:
