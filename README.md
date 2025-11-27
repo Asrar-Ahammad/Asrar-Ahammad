@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Video Streaming Platform<br>🌱 I’m currently learning NextJS
+🔭 I’m currently working on Agentic Website builder AI<br>🌱 I’m currently learning NextJS
 
 
 # 🌐 Socials:
